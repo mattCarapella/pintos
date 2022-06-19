@@ -1,4 +1,3 @@
-# pintos
+# Pintos
 Pintos operating system project (written in C)
-Supports kernel threads, loading and running user programs, a file system, and virtual memory. 
-Passes All Tests for Project 1 and 2.
+Supports kernel threads and loading and running user programs (passes all tests for projects 1 and 2). 
